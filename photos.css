@@ -1,0 +1,13 @@
+img {
+	width: 30%;
+	float: left;  /*<-to pozwala na pozbycie sie przestrzeni miedzy obiektami narzuconych przez przegladarke*/
+	margin: 1.66%;
+}
+p {
+	font-family: Source Sans Pro;
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 900;
+	border-bottom: 2px solid black;
+	padding-bottom: 10px;
+}
